@@ -1,4 +1,4 @@
-# 3D Weather Skill / SkyVibe Weather
+# 3D Weather Skill / SkyVibe AI
 
 <p align="center">
   <strong>AI 天气视觉工具</strong>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/cover.jpg" alt="3D Weather Skill Cover" width="100%" />
+  <img src="assets/cover.jpg" alt="3D Weather Skill Cover" width="70%" />
 </p>
 
 <p align="center">
@@ -39,9 +39,6 @@
 本项目为扣子技能大赛获奖作品，获得：
 - 极客赛道第一名
 
-> 这里放获奖公告截图
->
-> 建议文件路径：`assets/award.png`
 
 <p align="center">
   <img src="assets/award.png" alt="Award" width="88%" />
@@ -81,13 +78,6 @@
 
 ### 海报示例
 
-> 请在这里放 3 张代表性海报
->
-> 建议：
-> - 伊犁
-> - 上海
-> - 东京 / 伦敦 / 巴黎任一国际城市
-
 <p align="center">
   <img src="assets/cases/yili-poster.jpg" width="31%" />
   <img src="assets/cases/shanghai-poster.jpg" width="31%" />
@@ -96,15 +86,14 @@
 
 ### 动态效果
 
-> README 中建议使用 GIF 展示，而不是直接使用 Live Photo 原始文件
->
-> 建议文件路径：`assets/demo.gif`
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Live Demo" width="82%" />
+  <!-- <img src="assets/demo.gif" alt="Live Demo" width="82%" /> -->
+    <img src="assets/demo.gif" width="31%" />
+    <img src="assets/demo-2.gif" width="31%" />
+    <img src="assets/demo-3.gif" width="31%" />
 </p>
 
-> 如果后续你准备了高清视频版本，可以把下方链接替换成实际地址：
 >
 > [观看高清视频演示](https://www.xiaohongshu.com/discovery/item/6984a059000000000a029327?app_platform=android&ignoreEngage=true&app_version=9.21.0&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBuZhis81Ew9HU4Y0z7q2aFVlxa6DD94PWck3lDSCIy1M%3D&author_share=1&xhsshare=&shareRedId=ODs5MjhHNUI2NzUyOTgwNjlHOTlFOjZO&apptime=1773324553&share_id=eed7018e2eff4fa59ac7b04874626844&share_channel=copy_link)
 
@@ -209,16 +198,9 @@
 - 关注我的内容账号
 - 请我喝杯咖啡
 
-> 赞赏入口占位说明：
->
-> 你后续可以在这里放以下任一方式：
-> - 微信赞赏码截图：`assets/support-wechat.png`
-> - 爱发电主页链接
-> - Buy Me a Coffee / 赞助链接
->
-> 示例占位：
->
-> `<img src="assets/support-wechat.png" width="260" />`
+<p align="center">
+  <img src="assets/support-wechat.jpg" alt="WeChat Support" width="280" />
+</p>
 
 ---
 
