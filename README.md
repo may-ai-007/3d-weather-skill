@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/cover.png" alt="3D Weather Skill Cover" width="100%" />
+  <img src="assets/cover.jpg" alt="3D Weather Skill Cover" width="100%" />
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@
 <p align="center">
   <img src="assets/cases/yili-poster.jpg" width="31%" />
   <img src="assets/cases/shanghai-poster.jpg" width="31%" />
-  <img src="assets/cases/tokyo-poster.jpg" width="31%" />
+  <img src="assets/cases/lundun-poster.jpg" width="31%" />
 </p>
 
 ### 动态效果
@@ -106,7 +106,7 @@
 
 > 如果后续你准备了高清视频版本，可以把下方链接替换成实际地址：
 >
-> [观看高清视频演示](请替换为视频链接)
+> [观看高清视频演示](https://www.xiaohongshu.com/discovery/item/6984a059000000000a029327?app_platform=android&ignoreEngage=true&app_version=9.21.0&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBuZhis81Ew9HU4Y0z7q2aFVlxa6DD94PWck3lDSCIy1M%3D&author_share=1&xhsshare=&shareRedId=ODs5MjhHNUI2NzUyOTgwNjlHOTlFOjZO&apptime=1773324553&share_id=eed7018e2eff4fa59ac7b04874626844&share_channel=copy_link)
 
 ---
 
