@@ -108,10 +108,9 @@
 ### 输入示例
 
 - 上海天气
-- 北京天气
-- 伦敦天气海报
-- 东京天气图片
 - 伊犁天气
+- 伦敦天气海报
+- 台湾省台北市天气
 
 ### 输出逻辑
 
@@ -199,7 +198,7 @@
 - 请我喝杯咖啡
 
 <p align="center">
-  <img src="assets/support-wechat.jpg" alt="WeChat Support" width="280" />
+  <img src="assets/support-wechat.png" alt="WeChat Support" width="280" />
 </p>
 
 ---
