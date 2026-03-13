@@ -9,6 +9,15 @@
 </p>
 
 <p align="center">
+  <strong>开放合作 / Open to opportunities</strong>
+</p>
+
+<p align="center">
+  欢迎 AI 产品合作、招聘机会、智能座舱方案交流
+</p>
+
+
+<p align="center">
   <img src="assets/cover.jpg" alt="3D Weather Skill Cover" width="70%" />
 </p>
 
@@ -153,7 +162,10 @@
 - 可与语音、地图、壁纸、HUD、后排屏联动的场景化能力
 
 详见：
-- [`docs/automotive-solution-ideas.md`](docs/automotive-solution-ideas.md)
+- [`docs/automotive-one-pager.md`](docs/automotive-one-pager.md) - 适合招聘方与合作方快速浏览
+- [`docs/automotive-solution-ideas.md`](docs/automotive-solution-ideas.md) - 完整产品思路与场景延展
+
+
 
 ---
 
@@ -198,7 +210,7 @@
 - 请我喝杯咖啡
 
 <p align="center">
-  <img src="assets/support-wechat.png" alt="WeChat Support" width="280" />
+  <img src="assets/support-wechat.png" alt="WeChat Support" width="200" />
 </p>
 
 ---

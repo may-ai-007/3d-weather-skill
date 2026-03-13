@@ -1,0 +1,54 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
+*.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node
+node_modules/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
+.cache/
+
+# Private project files
+private/
+.coze/
+*.skill
+full-system-prompt.md
+internal-notes.md
+workflow-notes.md
+
+# Export / generated assets not ready for public repo
+exports/
+drafts/
+raw-assets/
+source-videos/
+livp-original/
+*.livp
+
+# Large local media or draft media
+assets/raw/
+assets/draft/
+assets/private/
+
+# OS / cloud sync conflicts
+*.sync-conflict*
