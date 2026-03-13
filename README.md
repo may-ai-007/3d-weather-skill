@@ -50,6 +50,7 @@
 
 
 <p align="center">
+  <img src="assets/award1.png" alt="Award" width="88%" />
   <img src="assets/award.png" alt="Award" width="88%" />
 </p>
 
