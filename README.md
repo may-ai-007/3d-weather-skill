@@ -142,10 +142,10 @@
 准确地说，它是一个“把高频信息服务转化为情境化视觉体验”的 AI 能力样本。天气只是起点，后续我会继续围绕智能座舱、城市信息可视化、文旅表达和品牌化内容形态做更多延展。
 
 相关文档：
-- [`docs/product-vision.md`](docs/product-vision.md)
-- [`docs/automotive-one-pager.md`](docs/automotive-one-pager.md)
-- [`docs/automotive-solution-ideas.md`](docs/automotive-solution-ideas.md)
-- [`docs/recognition.md`](docs/recognition.md)
+- 产品愿景[`docs/product-vision.md`](docs/product-vision.md)
+- 一页摘要&快速浏览[`docs/automotive-one-pager.md`](docs/automotive-one-pager.md)
+- 完整产品思路&应用场景扩展[`docs/automotive-solution-ideas.md`](docs/automotive-solution-ideas.md)
+- 获奖说明[`docs/recognition.md`](docs/recognition.md)
 
 ---
 ## 如何体验
@@ -202,8 +202,8 @@
 - 可与语音、地图、壁纸、HUD、后排屏联动的场景化能力
 
 详见：
-- [`docs/automotive-one-pager.md`](docs/automotive-one-pager.md) - 一页摘要&快速浏览
-- [`docs/automotive-solution-ideas.md`](docs/automotive-solution-ideas.md) - 完整产品思路&场景延展
+- 一页摘要&快速浏览[`docs/automotive-one-pager.md`](docs/automotive-one-pager.md)
+- 完整产品思路&场景延展[`docs/automotive-solution-ideas.md`](docs/automotive-solution-ideas.md)
 
 
 
