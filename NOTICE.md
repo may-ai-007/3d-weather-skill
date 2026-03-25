@@ -1,84 +1,75 @@
-# NOTICE
+# Notice
 
-## Repository Positioning
+## 项目说明
 
-This repository is a public showcase of the project **3D Weather Skill / SkyVibe AI**.
+本仓库用于公开展示 `3d-weather-skill` 项目的产品思考、公开文档、部分实现思路、案例素材与场景延展方案。
 
-It is created for:
-- project presentation
-- product thinking sharing
-- selected documentation publishing
-- capability demonstration
-- collaboration and career opportunities
+这个仓库的主要目的包括：
 
-This repository is **not** intended to be a full reproducible release.
+- 展示项目能力与产品方法
+- 记录项目演进与公开版本
+- 对外分享 AI 产品思考与实践样本
+- 连接招聘、合作、交流与潜在商业机会
 
 ---
 
-## What Is Included
+## 开放范围
 
-This repository may include:
-- public project introduction
-- visual examples
-- public usage guide
-- public prompt framework
-- product vision documents
-- automotive scenario exploration
-- selected sample inputs and outputs
+仓库中公开的内容，主要用于以下用途：
 
----
+- 学习和参考项目的产品思路
+- 引用项目中的公开表达与文档结构
+- 基于公开内容获得启发并进行二次创作或延展
+- 了解该项目在智能座舱、城市文旅、品牌联名等方向上的产品想象空间
 
-## What Is Not Included
-
-This repository does not include:
-- full internal system prompts
-- full private workflow settings
-- `.skill` export files
-- `.coze` configuration files
-- internal optimization logic
-- production-grade private assets
+我接受在合理范围内的参考、引用、启发和二次开发。
 
 ---
 
-## Copyright and Use
+## 未公开内容
 
-Unless otherwise stated, the text, screenshots, diagrams, and visual examples in this repository are provided for project presentation and communication.
+为了保护项目仍在迭代中的核心资产，以下内容不在本仓库公开范围内：
 
-You are welcome to:
-- learn from the public ideas
-- reference the repository with attribution
-- discuss the methods and scenarios
+- 完整系统提示词
+- 完整 `.skill` 配置导出
+- 平台内部工作流与私有配置
+- 本地测试文件、临时脚本与未整理素材
+- 尚未公开的实验版本与商业化细节
 
-For commercial collaboration, consulting, industry co-creation, or customized implementation, please contact me directly.
-
----
-
-## Contact
-
-- Email: mayuzone.com@163.com
-- Email: mayuzone.com@gmail.com
-
-A community group may be added in the future, and the group QR code will be updated in the repository later.
+也就是说，这个仓库是一个公开展示版，而不是项目全部底层资产的完整开放。
 
 ---
 
-## Support
+## 使用说明
 
-If this project inspires you, you can:
-- Star the repository
-- Share it with others
-- Support the project through the donation section in README
+如果你是：
 
-# License Note
+- 招聘方，希望了解我的 AI 产品能力、方法论和项目表达
+- 合作方，希望探讨内容产品、AI 工具、智能座舱、文旅或品牌化方向合作
+- 同行或开发者，希望基于公开内容交流思路
+- 媒体、自媒体或研究者，希望引用项目案例或相关观点
 
-This repository uses the MIT License.
+欢迎通过下方方式联系我。
 
-Why MIT:
-- I want the repository to be open, easy to understand, and easy to reference.
-- The main goal of this project is capability showcase, idea sharing, and opportunity connection.
-- This repository is a public showcase, not a full reproducible production release.
+---
 
-Please note:
-- The repository does not include full internal prompts, `.skill` exports, or `.coze` workflow configuration.
-- Public content is shared for learning, inspiration, communication, and open discussion.
-- For consulting, industry collaboration, or customized implementation, please contact me directly.
+## 联系方式
+
+- 邮箱 1：mayuzone.com@163.com
+- 邮箱 2：mayuzone.com@gmail.com
+
+后续如果我建立项目交流群，也会将二维码补充到仓库中。
+
+---
+
+## 额外说明
+
+我会持续更新这个仓库，包括但不限于：
+
+- 产品思考
+- 版本迭代
+- 场景方案
+- 对外展示文档
+- 公开成果与背书
+
+如果你看到某些文档仍比较概念化，那通常意味着它们代表的是我当前阶段的公开产品判断，而不是已经完全工程化落地的最终形态。
