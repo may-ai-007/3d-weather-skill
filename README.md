@@ -203,7 +203,7 @@
 
 详见：
 - 一页摘要&快速浏览[`docs/automotive-one-pager.md`](docs/automotive-one-pager.md)
-- 完整产品思路&场景延展[`docs/automotive-solution-ideas.md`](docs/automotive-solution-ideas.md)
+- 完整产品思路&应用场景扩展[`docs/automotive-solution-ideas.md`](docs/automotive-solution-ideas.md)
 
 
 
