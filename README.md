@@ -48,11 +48,11 @@
 本项目为扣子技能大赛获奖作品，获得：
 - 极客赛道第一名🏆
 
-
 <p align="center">
-  <img src="assets/award1.png" alt="Award" width="88%" />
-  <img src="assets/award.png" alt="Award" width="88%" />
+  <img src="assets/award.jpg" alt="Award" width="88%" />
+  <!-- <img src="assets/award.png" alt="Award" width="88%" /> -->
 </p>
+
 
 ---
 
@@ -108,6 +108,18 @@
 > [观看高清视频演示](https://www.xiaohongshu.com/discovery/item/6984a059000000000a029327?app_platform=android&ignoreEngage=true&app_version=9.21.0&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBuZhis81Ew9HU4Y0z7q2aFVlxa6DD94PWck3lDSCIy1M%3D&author_share=1&xhsshare=&shareRedId=ODs5MjhHNUI2NzUyOTgwNjlHOTlFOjZO&apptime=1773324553&share_id=eed7018e2eff4fa59ac7b04874626844&share_channel=copy_link)
 
 ---
+## 获奖背书
+
+本项目获得 Founder Park × 字节 Skill Hackthon 极客赛道 TOP 1。
+
+这不仅是一个“效果不错的 AI demo”，也是一个已经在真实比赛场景中被验证过、获得外部认可的产品实验，它验证了：即便是天气这样一个成熟且高频的品类，在 AI 时代依然值得被重新做一遍。
+
+<p align="center">
+  <img src="assets/award1.jpg" alt="Skill Hackthon TOP 1" width="520" />
+</p>
+
+更多公开背书见：[`docs/recognition.md`](docs/recognition.md)
+
 
 ## 如何体验
 
