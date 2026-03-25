@@ -110,7 +110,7 @@
 ---
 ## 获奖背书
 
-本项目获得 Founder Park × 字节 Skill Hackthon 极客赛道 TOP 1。
+本项目获得 Founder Park × 字节 Skill Hackthon 极客赛道 TOP 1 🏆
 
 这不仅是一个“效果不错的 AI demo”，也是一个已经在真实比赛场景中被验证过、获得外部认可的产品实验，它验证了：即便是天气这样一个成熟且高频的品类，在 AI 时代依然值得被重新做一遍。
 
@@ -119,6 +119,27 @@
 </p>
 
 更多公开背书见：[`docs/recognition.md`](docs/recognition.md)
+
+## 为什么值得看
+
+这个项目值得看的地方，不只是它生成的 3D 天气海报和 Live Photo 动态效果，而是它背后所代表的一种 AI 产品思路。
+
+- 它不是在传统天气 App 上叠加一个 AI 功能，而是在尝试重做天气这类高频产品的体验方式。
+- 我想重做的不是天气信息本身，而是天气体验：让用户更快获得感知、更强的结果感和更有情绪价值的输出。
+- 这个项目也让我越来越确认一个判断：AI 产品正在从“功能型产品”走向“结果型产品”，未来的重点不只是页面和入口，而是任务理解、能力调用和结果交付。
+- 天气只是一个高频入口。基于同样的能力框架，它还可以进一步延展到智能座舱、城市文旅、品牌联名等更大的产品场景。
+
+## 不止于天气
+
+我要做的，不是又一个孤立的天气工具。
+
+准确地说，它是一个“把高频信息服务转化为情境化视觉体验”的 AI 能力样本。天气只是起点，后续我会继续围绕智能座舱、城市信息可视化、文旅表达和品牌化内容形态做更多延展。
+
+相关文档：
+- [`docs/product-vision.md`](docs/product-vision.md)
+- [`docs/automotive-one-pager.md`](docs/automotive-one-pager.md)
+- [`docs/automotive-solution-ideas.md`](docs/automotive-solution-ideas.md)
+- [`docs/recognition.md`](docs/recognition.md)
 
 
 ## 如何体验
