@@ -49,7 +49,7 @@
 - 极客赛道第一名🏆
 
 <p align="center">
-  <img src="assets/award.jpg" alt="Award" width="88%" />
+  <img src="assets/award.png" alt="Award" width="88%" />
   <!-- <img src="assets/award.png" alt="Award" width="88%" /> -->
 </p>
 
@@ -141,7 +141,7 @@
 - [`docs/automotive-solution-ideas.md`](docs/automotive-solution-ideas.md)
 - [`docs/recognition.md`](docs/recognition.md)
 
-
+---
 ## 如何体验
 
 ### Coze 技能链接
